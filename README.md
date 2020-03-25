@@ -1,6 +1,7 @@
 # vue-vant-h5
 
 # 咨询新闻类项目
+# 项目持更新中...
 
 # 基于vue-cli3.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建项目
 # Vue-cli4    
