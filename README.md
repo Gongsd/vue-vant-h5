@@ -1,6 +1,8 @@
 # vue-vant-h5
 
-# 基于vue-cli3.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建手机端模板脚手架
+# 咨询新闻类项目
+
+# 基于vue-cli3.0+webpack 4+vant ui + sass+ rem适配方案+axios封装，构建项目
 # Vue-cli4    
 # VantUI组件按需加载       
 # Sass         
@@ -22,5 +24,5 @@
   "lint": "vue-cli-service lint"
 }
 
-# 实现数据交互与后端一起用，详细代码链接
+# 实现接口数据交互与后端项目一起跑起来，鄙人不才，奉上node后端项目链接
 https://github.com/Gongsd/express-mongodb-server
