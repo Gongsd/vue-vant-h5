@@ -25,5 +25,5 @@
   "lint": "vue-cli-service lint"
 }
 
-# 实现接口数据交互与后端项目一起跑起来，鄙人不才，奉上node后端项目链接
+# 实现接口数据交互，后端项目
 https://github.com/Gongsd/express-mongodb-server
